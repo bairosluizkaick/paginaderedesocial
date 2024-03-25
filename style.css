@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     padding: 50px;
-    border-bottom: 2px solid #ffff00b2;
+    border-bottom: 2px solid #000000b2;
 
 }
 .cabecalho{
@@ -23,7 +23,7 @@ width: 25%;
     font-size: 16px;
 }/* secao lojas*/
 .lojas{
-    background-color: #a9a9a9;
+    background-color: #c0bf7e00;
 }
 
 .lojas-titulo{
@@ -43,7 +43,7 @@ font-size: 45px;
 }
 
 .lojas-estado-img{
-    width: 20px;
+    width: 30px;
 }
 .lojas-estado-nome{
     font-weight: 100;
