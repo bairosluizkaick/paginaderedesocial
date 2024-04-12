@@ -6,7 +6,7 @@ body{
     font-family: 'Poppins,sans-serif';
 }
 .sobre-nos{
-    background-image: linear-gradient(#3B0050,#3b00501f);
+    background-image: linear-gradient(#fdfdfd,#3b00501f);
     color:#FFFFFF;
     display: flex;
     justify-content: center;
